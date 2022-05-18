@@ -3,4 +3,4 @@
 Grafana dashboard's information:
 -  Author
 -  Author email
--  error rate change per minute
+-  Error rate change per minute
